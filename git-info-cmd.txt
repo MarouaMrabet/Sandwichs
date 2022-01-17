@@ -1,0 +1,27 @@
+
+Tester le bon fonctionnement de GIT en local  
+
+git --version
+
+
+Créer son premier depot distant 
+ git init
+
+créer un répertoire sandwich 
+
+mkdir nomrepertoire
+
+Créer un fichier à l’intérieur ‘burger.txt’ 
+
+ echo nomdossier nomfichier.txt ou echo>nomfichier.txt  
+
+touch nomfichier.txt 
+
+la liste des ingrédients d’un burger (un par ligne),  :
+
+echo> "nom list 
+(retour à la ligne )
+
+(fin liste) "
+
+entrer dns un fichier : vim nomfichier
